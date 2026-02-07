@@ -1,29 +1,60 @@
-# EVOCLAW: Self-Evolving Agents
+# EVOCLAW: Self-Evolving Agents 🧬
 
-A research paper landing page showcasing EVOCLAW, a framework for self-evolving AI agents.
+[![Deploy to GitHub Pages](https://github.com/bowen31337/evoclaw_paper/actions/workflows/deploy.yml/badge.svg)](https://github.com/bowen31337/evoclaw_paper/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Pages](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bowen31337.github.io/evoclaw_paper/)
 
-## 🌐 Live Demo
+> **EVOCLAW** is a revolutionary framework for self-evolving AI agents, designed to mutate and adapt their code autonomously across distributed infrastructure.
 
-Visit the live site: [https://bowen31337.github.io/evoclaw_paper/](https://bowen31337.github.io/evoclaw_paper/)
+## 🌐 Live Site
+Explore the interactive paper: **[https://bowen31337.github.io/evoclaw_paper/](https://bowen31337.github.io/evoclaw_paper/)**
 
-## 🚀 Deployment
+---
 
-This site is automatically deployed to GitHub Pages using GitHub Actions. Any push to the `main` branch will trigger a new deployment.
+## ✨ Key Features
 
-## 📝 Development
+- **🧬 Autonomous Mutation Engine**: Agents capable of self-modifying their logic based on environment feedback.
+- **☁️ Distributed Infrastructure**: Seamless coordination across Raspberry Pi clusters and cloud servers.
+- **📊 Real-time Analytics**: Dynamic visualization of mutation success rates and evolution progress.
+- **⚡ High Performance**: Built with modern web technologies for a smooth, immersive experience.
+- **🛡️ Secure Evolution**: Sandboxed execution environments for safe code mutation.
 
-The site is a single-page HTML application with:
-- TailwindCSS for styling
-- Chart.js for visualizations
-- Custom animations and interactive elements
+## 🛠️ Tech Stack
 
-## 🔄 Updating the Site
+- **Styling**: TailwindCSS
+- **Visuals**: Chart.js, Custom CSS Animations
+- **Icons**: Material Symbols, Font Awesome
+- **Fonts**: JetBrains Mono, Inter
+- **Deployment**: GitHub Actions + GitHub Pages
 
-1. Make changes to `index.html`
-2. Commit your changes: `git commit -am "Your commit message"`
-3. Push to GitHub: `git push origin main`
-4. GitHub Actions will automatically deploy the changes
+## 🚀 How It Works
 
-## 📄 License
+EVOCLAW agents utilize a **G-C-A-T** (Generation, Coordination, Adaptation, Testing) loop:
+1. **Generation**: New code snippets are generated based on performance needs.
+2. **Coordination**: Changes are synchronized across the agent network.
+3. **Adaptation**: Successful mutations are integrated into the core DNA.
+4. **Testing**: Continuous validation ensures system stability.
 
-All rights reserved.
+## 📦 Deployment & Development
+
+This repository is set up for **Continuous Deployment**.
+
+### To Update:
+1. Edit `index.html`
+2. Commit your changes:
+   ```bash
+   git add index.html
+   git commit -m "feat: enhance evolution visualization"
+   ```
+3. Push to main:
+   ```bash
+   git push origin main
+   ```
+
+The **GitHub Action** will automatically rebuild and deploy the site to GitHub Pages.
+
+---
+
+<p align="center">
+  Built with 💙 for the future of Autonomous Intelligence.
+</p>
