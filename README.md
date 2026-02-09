@@ -1,13 +1,13 @@
 # EVOCLAW: Self-Evolving Agents 🧬
 
-[![Deploy to GitHub Pages](https://github.com/bowen31337/evoclaw_paper/actions/workflows/deploy.yml/badge.svg)](https://github.com/bowen31337/evoclaw_paper/actions/workflows/deploy.yml)
+[![Deploy to Cloudflare Pages](https://github.com/bowen31337/evoclaw_paper/actions/workflows/deploy.yml/badge.svg)](https://github.com/bowen31337/evoclaw_paper/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Pages](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bowen31337.github.io/evoclaw_paper/)
+[![Pages](https://img.shields.io/badge/Live-Demo-brightgreen)](https://evoclaw-paper.pages.dev/)
 
 > **EVOCLAW** is a revolutionary framework for self-evolving AI agents, designed to mutate and adapt their code autonomously across distributed infrastructure.
 
 ## 🌐 Live Site
-Explore the interactive paper: **[https://bowen31337.github.io/evoclaw_paper/](https://bowen31337.github.io/evoclaw_paper/)**
+Explore the interactive paper: **[https://evoclaw-paper.pages.dev/](https://evoclaw-paper.pages.dev/)**
 
 ---
 
@@ -25,7 +25,7 @@ Explore the interactive paper: **[https://bowen31337.github.io/evoclaw_paper/](h
 - **Visuals**: Chart.js, Custom CSS Animations
 - **Icons**: Material Symbols, Font Awesome
 - **Fonts**: JetBrains Mono, Inter
-- **Deployment**: GitHub Actions + GitHub Pages
+- **Deployment**: GitHub Actions + Cloudflare Pages
 
 ## 🚀 How It Works
 
@@ -51,7 +51,7 @@ This repository is set up for **Continuous Deployment**.
    git push origin main
    ```
 
-The **GitHub Action** will automatically rebuild and deploy the site to GitHub Pages.
+The **GitHub Action** will automatically rebuild and deploy the site to Cloudflare Pages.
 
 ---
 
